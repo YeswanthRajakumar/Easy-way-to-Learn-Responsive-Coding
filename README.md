@@ -9,4 +9,4 @@ I've not used Media Queries or CSS......Only with Bootstarp
  - Try this techniques with Media Queries for Best Outcome
  - Keep Control of your Positioning,FlexBox and Other Components
  
- """ I did these thing Only for the People who are beginners and those who are struggling with Responsive Coding"""
+ **I did these things Only for the People who are beginners and those who are struggling with Responsive Coding
